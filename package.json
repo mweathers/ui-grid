@@ -5,6 +5,7 @@
   "directories": {
     "test": "test"
   },
+  "files": ["dist/release"],
   "scripts": {
     "init": "validate-commit-msg",
     "test": "grunt",
